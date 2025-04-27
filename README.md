@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @chrkomal
-- 👀 I’m interested in learning programming, developing software and reading books
-- 🌱 I’m currently learning advance networking
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me u can connect me through linkedin profile www.linkedin.com/in/komal-chaudhari-ab1755278
+- 👋 Hi, I’m @komal_chaudhari
+- 👀 I’m interested in learning programming, developing software and  networking
+- 🌱 I’m currently learning advance programming and cloud platforms
+- 💞️ I’m looking to collaborate on open source
+- 📫 How to reach? me u can connect me through linkedin profile www.linkedin.com/in/komal-chaudhari-ab1755278
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: m happy being the way i am... never gonna change for anyone
 
